@@ -9,7 +9,7 @@ Hey there, I'm Aditya 🙏
   <li> 🔨 I am currently working on a personal project that is implemented using Kotlin, an app that keeps track of groceries using QR Code Api</li>
   <li> 😉 Fun Fact: I am fluent in these languages: English, Spanish, French, Nepali, Hindi</li>
   <li> 📃 Published a Machine Learning research on classfication models, and was selected to demostrate it in the 9th Annual Scholars Week Symposium at Ramapo College, NJ</li>
- 
+  <li> Portfolio Link: https://adoring-khorana-72a66f.netlify.app/ </li>
 </ul>
 
 <h1>My Developer Armory </h1>
