@@ -6,8 +6,9 @@ Hey there, I'm Aditya 🙏
   <li> 💼 Actively looking for full time oppurtunities to collaborate and express the art of programming with other developers</li>
   <li> 📱  For 2021 my goal is to learn Mobile App development in Kotlin and build a solid fundation on creating native applications</li>
   <li> 🎇 Persevarance and Ingenuity </li>
-  <li> 🔨 I am currently working on a personal project that is implemented using Kotlin, An app that keeps track of groceries using QR Code Api</li>
+  <li> 🔨 I am currently working on a personal project that is implemented using Kotlin, an app that keeps track of groceries using QR Code Api</li>
   <li> 😉 Fun Fact: I am fluent in these languages: English, Spanish, French, Nepali, Hindi</li>
+  <li> 📃 Published a Machine Learning research on classfication models, and was selected to demostrate it in the 9th Annual Scholars Week Symposium at Ramapo College, NJ</li>
  
 </ul>
 
