@@ -1,6 +1,6 @@
-I'm Aditya 🙏
+Hey there, I'm Aditya 🙏
 
-<h2> I am aspiring to becomce a full stack software developer, </h2>  
+<h2> I am aspiring to becomce a full stack software developer, using modern frameworks and design </h2>  
 <ul>
   <li> 📚 With a passion for web development I am currently speacializing in React, Node & Firebase </li>  
   <li> 💼 Actively looking for full time oppurtunities to collaborate and express the art of programming with other developers</li>
