@@ -1,14 +1,13 @@
 Hey there, I'm Aditya 🙏
 
-<h2> I am aspiring to becomce a full stack software developer, using modern frameworks and design </h2>  
+<h2> I am aspiring to become a full stack software developer, using modern frameworks and design </h2>  
 <ul>
-  <li> 📚 With a passion for web development I am currently speacializing in React, Node & Firebase </li>  
-  <li> 💼 Actively looking for full time oppurtunities to collaborate and express the art of programming with other developers</li>
-  <li> 📱  For 2021 my goal is to learn Mobile App development in Kotlin and build a solid fundation on creating native applications</li>
+  <li> 📚 With a passion for web development, I am currently specializing in React, Node & Firebase </li>  
+  <li> 💼 Actively looking for full-time opportunities to collaborate and express the art of programming with other developers</li>
   <li> 🎇 Persevarance and Ingenuity </li>
   <li> 🔨 I am currently working on a personal project that is implemented using Kotlin, an app that keeps track of groceries using QR Code Api</li>
   <li> 😉 Fun Fact: I am fluent in these languages: English, Spanish, French, Nepali, Hindi</li>
-  <li> 📃 Published a Machine Learning research on classfication models, and was selected to demostrate it in the 9th Annual Scholars Week Symposium at Ramapo College, NJ</li>
+  <li> 📃 Published a Machine Learning Research on classification models and was selected to demonstrate it in the 9th Annual Scholars Week Symposium at Ramapo College, NJ</li>
 </ul>
 
 <h1>My Developer Armory </h1>
